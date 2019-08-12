@@ -1,0 +1,102 @@
+{
+  "data": {
+    "conversationsData": [
+      {
+        "Id": "0",
+        "first_name": "Spencer",
+        "last_name": "Peck",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+        "date": "Dec 25",
+        "last_message": "Yes that will be fine poop."
+      },
+      {
+        "Id": "1",
+        "first_name": "Brigham",
+        "last_name": "Peck",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+        "date": "Dec 28",
+        "last_message": "give it to me ."
+      },
+      {
+        "Id": "2",
+        "first_name": "Daniel",
+        "last_name": "Southwick",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+        "date": "Dec 25",
+        "last_message": "Why would you do that?."
+      },
+      {
+        "Id": "3",
+        "first_name": "Wayne",
+        "last_name": "Peck",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+        "date": "Dec 19",
+        "last_message": "Please don't."
+      },
+      {
+        "Id": "4",
+        "first_name": "Spencer",
+        "last_name": "Peck",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+        "date": "Dec 25",
+        "last_message": "Yes that will be fine poop."
+      },
+      {
+        "Id": "5",
+        "first_name": "Brigham",
+        "last_name": "Peck",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+        "date": "Dec 28",
+        "last_message": "give it to me ."
+      },
+      {
+        "Id": "6",
+        "first_name": "Daniel",
+        "last_name": "Southwick",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+        "date": "Dec 25",
+        "last_message": "Why would you do that?."
+      },
+      {
+        "Id": "7",
+        "first_name": "Wayne",
+        "last_name": "Peck",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+        "date": "Dec 19",
+        "last_message": "Please don't."
+      },
+      {
+        "Id": "8",
+        "first_name": "Spencer",
+        "last_name": "Peck",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+        "date": "Dec 25",
+        "last_message": "Yes that will be fine poop."
+      },
+      {
+        "Id": "9",
+        "first_name": "Brigham",
+        "last_name": "Peck",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+        "date": "Dec 28",
+        "last_message": "give it to me ."
+      },
+      {
+        "Id": "10",
+        "first_name": "Daniel",
+        "last_name": "Southwick",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+        "date": "Dec 25",
+        "last_message": "Why would you do that?."
+      },
+      {
+        "Id": "11",
+        "first_name": "Wayne",
+        "last_name": "Peck",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+        "date": "Dec 19",
+        "last_message": "Please don't."
+      }
+    ]
+  }
+}
